@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Project integrating [Nest](https://github.com/nestjs/nest) framework TypeScript and MongoDB.
 
 ## Installation
 
