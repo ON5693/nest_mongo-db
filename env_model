@@ -1,0 +1,7 @@
+MONGO_USER=<Usuario>
+MONGO_PASSWORD=<Senha>
+MONGO_URI=<URI de Conexão>
+
+JWT_SECRET=<Senha para Token>
+ENCRYPT_JWT_SECRET=<Outra senha para Token >
+JWT_EXPIRATION=1d
